@@ -1,6 +1,6 @@
 # aulagit 
 ## Iniciando projeto GIT
-- Repostiorio local // c:\algum lugar\.git
+- Repostiorio local // c:\algum lugar\repositorio.git
 - Repositório remoto // GitHub
 - git config --global user.name "vitor-gauer" // nome do GitHub
 - git config --global user.email "vitormatheusgauer223@gmail.com" // E-mail do GitHub
