@@ -13,3 +13,8 @@
 - git commit -m "(mensagem commit)"
 ## Push
 - git push origin main // empurre para o origin(remoto), na brach main, os arquivos do ultimo commit
+## Clone, Fetch, Pull
+- git clone (repositorio)
+- git fetch // verificar todas as coisas
+- git status // verificar coisas novas
+- git pull
